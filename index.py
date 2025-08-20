@@ -1,0 +1,5 @@
+num1 = int(input('Digite o seu valor:'))
+num2 = int(input('digite o segundo valor:'))
+print(f'a soma entre {num1} e {num2} vale {num1 + num2}')
+n = float(input("digite um valor:"))
+print(f'a soma total é {n}')
